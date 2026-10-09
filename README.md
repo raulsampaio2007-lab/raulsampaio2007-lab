@@ -2,9 +2,13 @@ Estudante de Ciência da Computação na FIAP (2026–2030), em busca de estági
 
 Tecnologias
 Python (base principal)
+
 Pandas e Matplotlib (conhecimento básico)
+
 SQL (em aprendizado)
+
 Lógica de programação e lógica digital
+
 Noções de C e bancos de dados
 
 Projetos
