@@ -16,7 +16,7 @@ Mission Control AI — Sistema de alerta autônomo com lógica digital: 5 variá
 
 [Relatório técnico](https://drive.google.com/file/d/1IEJ1lYVYIV6jrHogJW5H-6AKDb-3xxky/view?usp=sharing)
 
-Em andamento
+##Em andamento
 Trilha de Análise de Dados (Python, SQL, Pandas e Power BI)
 
 ---
