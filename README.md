@@ -12,7 +12,9 @@ Lógica de programação e lógica digital
 Noções de C e bancos de dados
 
 Projetos
-Mission Control AI — Sistema de alerta autônomo com lógica digital: 5 variáveis críticas, tabela verdade com 32 combinações, simplificação booleana e implementação com CIs 74HC04, 74HC08 e 74HC32, simulado no Tinkercad. Relatório técnico
+Mission Control AI — Sistema de alerta autônomo com lógica digital: 5 variáveis críticas, tabela verdade com 32 combinações, simplificação booleana e implementação com CIs 74HC04, 74HC08 e 74HC32, simulado no Tinkercad. 
+
+[Relatório técnico](https://drive.google.com/file/d/1IEJ1lYVYIV6jrHogJW5H-6AKDb-3xxky/view?usp=sharing)
 
 Em andamento
 Trilha de Análise de Dados (Python, SQL, Pandas e Power BI)
